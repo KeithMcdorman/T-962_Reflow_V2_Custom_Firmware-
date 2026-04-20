@@ -1,5 +1,7 @@
 🔥 T-962 V2 STM32 Reflow Oven Firmware (Stock Hardware)
 Overview
+I Flashed the Firmware in STM32CubeIDE with a stlinkv3minie debug pins are exposed on the 20 pin header there is a picture 
+of the header pinout in the media
 
 This project is a clean-room firmware implementation for the T-962 V2 reflow oven using the stock STM32 control board.
 
